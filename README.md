@@ -4,7 +4,7 @@
 
 <h3>👋 Contributor:</h3>
 
-- 🌱 Durratul Daka Pamungkas: **XI/PPLG-3/8**
+- 🌱 irman maulana saputra: **XI/PPLG-3/12**
 
 <h3>📱 Menggunakan State Management Provider</h3>
 <p>Aplikasi Notepad ini menggunakan Provider sebagai solusi manajemen state.</p>
@@ -43,8 +43,8 @@ class NoteProvider with ChangeNotifier {
 <h5>Home Page</h5>
 <img src="foto/home.png" alt="Home Page" />
 
-<h5>Input Page</h5>
-<img src="foto/input.png" alt="Input Page" />
+<h5>simpan Page</h5>
+<img src="foto/simpan.png" alt="Input Page" />
 
-<h5>Notepad Page</h5>
-<img src="foto/browse.png" alt="Notepad Page" />
+<h5>edit Page</h5>
+<img src="foto/edit.png" alt="Notepad Page" />
